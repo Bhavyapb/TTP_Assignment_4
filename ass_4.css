@@ -1,0 +1,16 @@
+*{
+    background-color:rgb(252, 169, 187)
+  }
+
+  #argue-button{
+    display:flex;
+    align-items: center;
+    justify-content:space-around;    
+    padding: 2em;
+  }
+  
+  #hover{
+      font-weight: bold;
+      display: flex;
+      justify-content: center;
+  }
